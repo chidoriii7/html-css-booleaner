@@ -1,24 +1,41 @@
-.banner{
-    
+header {
     background-color: rgb(33, 140, 217);
-    
+    background-image: url(./img/pattern.png);
 }
 
-body{
 
+
+main, section, aside {
     margin: auto;
     width: 50%;
-    
 }
     
 .autore {
 
-color: lightgrey;
+    color: lightgrey;
 
 }
 
-#autore {
-
-    color: aqua;
-
+a {
+    text-decoration: none;
 }
+
+thead {
+    background-color: rgb(0, 85, 255);
+    color: white;
+    
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.spacing-table {
+     width: 40%;
+}
+
+.color-table {
+    background-color: aqua;
+    
+}
+
