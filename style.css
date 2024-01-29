@@ -1,0 +1,24 @@
+.banner{
+    
+    background-color: rgb(33, 140, 217);
+    
+}
+
+body{
+
+    margin: auto;
+    width: 50%;
+    
+}
+    
+.autore {
+
+color: lightgrey;
+
+}
+
+#autore {
+
+    color: aqua;
+
+}
